@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		ListaEnlazada lista=new ListaEnlazada();
+		System.out.println("Hola mundo ");
 		
 		System.out.println("LISTA ORIGINAL");
 		lista.addPrimero(3.2);
