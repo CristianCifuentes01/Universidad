@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-HolaMundo"/>
+	<classpathentry kind="src" path="02-Variables"/>
+	<classpathentry kind="src" path="03-LecturaTeclado"/>
+	<classpathentry kind="src" path="04-Condicionales"/>
+	<classpathentry kind="src" path="05-Bucles"/>
+	<classpathentry kind="src" path="06-Aleatorios"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
