@@ -168,6 +168,7 @@ class Pedido extends Producto {
     	int fechaTarjeta=entrada.nextInt();
     	
     	System.out.println("¡¡Gracias por su compra!! ");
+        
     }
    
 }

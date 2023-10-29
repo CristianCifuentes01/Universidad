@@ -186,6 +186,7 @@ public class Punto_4 {
 			edad();
 		}
 
+
 		
 		public void edad() {
 			edad=2023-year;

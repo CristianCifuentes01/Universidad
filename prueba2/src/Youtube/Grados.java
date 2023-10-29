@@ -14,6 +14,7 @@ public class Grados {
 		int x=1, opcion=0;
 		
 		while(x!=0) {
+			System.out.println("hola mundo ");
 			System.out.println();
 			System.out.println("--------------------------------------------");
 			System.out.println("Elije la opcion que deseas realizar:"+
