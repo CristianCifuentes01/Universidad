@@ -15,6 +15,7 @@ public class Grados {
 		
 		while(x!=0) {
 			System.out.println("hola mundo ");
+			System.out.printf("\nhola mundo");
 			System.out.println();
 			System.out.println("--------------------------------------------");
 			System.out.println("Elije la opcion que deseas realizar:"+
