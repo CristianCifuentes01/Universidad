@@ -1,0 +1,4 @@
+Potencia: 180.0
+Consumo: 9.0
+Temperatura: 28.0
+Encendido: true
