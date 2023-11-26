@@ -1,4 +1,4 @@
-package prueba2;
+package prueba;
 import java.util.*;
 public class Sistema {
 

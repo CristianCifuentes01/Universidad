@@ -1,4 +1,4 @@
-package prueba2;
+package prueba;
 import java.util.Scanner;
 import java.util.GregorianCalendar;
 public class ProcesoVentas {

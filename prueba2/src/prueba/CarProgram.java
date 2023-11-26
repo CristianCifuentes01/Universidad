@@ -1,4 +1,4 @@
-package prueba2;
+package prueba;
 // Importar las librerías necesarias
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

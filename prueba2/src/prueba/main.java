@@ -1,4 +1,4 @@
-package prueba2;
+package prueba;
 
 import java.net.URI;
 import java.net.http.HttpClient;

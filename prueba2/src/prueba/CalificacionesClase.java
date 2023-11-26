@@ -1,4 +1,4 @@
-package prueba2;
+package prueba;
 import java.util.Scanner;
 public class CalificacionesClase {
 	public static void main(String[] Args) {

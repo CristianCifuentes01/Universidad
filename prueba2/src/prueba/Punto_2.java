@@ -1,4 +1,4 @@
-package prueba2;
+package prueba;
 
 public class Punto_2 {
 

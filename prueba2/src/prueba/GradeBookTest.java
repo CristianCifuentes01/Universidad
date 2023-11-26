@@ -1,4 +1,4 @@
-package prueba2;
+package prueba;
 
 //Fig. 3.8: GradeBookTest.java
 //Create and manipulate a GradeBook object.
